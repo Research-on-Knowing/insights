@@ -8,9 +8,11 @@ image: assets/images/gigabit-whatcom-card.jpg
 excerpt: "After years of fieldwork and public partnership, we updated our white paper with a Whatcom County case study and what we learned about costs, permitting, and competition."
 series: gigabit-whatcom
 series_part: 5
+featured_order: 2
 ---
 
-*Part 5 in the Gigabit Whatcom series.*
+<div class="series-note" style="font-style:italic;color:#6c757d;margin-bottom:1.5rem">Part 5 in the Gigabit Whatcom series.</div>
+
 
 Building on years of fieldwork, public partnership progress, and evolving technology, we have drafted an updated edition of our white paper, [Creating Everyone Everywhere Affordable Broadband Access: Update](https://drive.google.com/file/d/1nQ-RrD_qryPC7AumLWC2M_smMuOV3jWo/view?usp=sharing).
 

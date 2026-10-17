@@ -10,7 +10,8 @@ series: gigabit-whatcom
 series_part: 3
 ---
 
-*Part 3 in the Gigabit Whatcom series.*
+<div class="series-note" style="font-style:italic;color:#6c757d;margin-bottom:1.5rem">Part 3 in the Gigabit Whatcom series.</div>
+
 
 Theoretical frameworks only matter when they are put into practice on the ground. One of Gigabit Whatcom’s earliest community-led initiatives focused on the McGee Road Local Loop, an unserved rural pocket of Whatcom County.
 

@@ -10,7 +10,8 @@ series: gigabit-whatcom
 series_part: 4
 ---
 
-*Part 4 in the Gigabit Whatcom series.*
+<div class="series-note" style="font-style:italic;color:#6c757d;margin-bottom:1.5rem">Part 4 in the Gigabit Whatcom series.</div>
+
 
 Building equitable broadband requires accurate, ground-level data. For years, official federal broadband coverage maps overstated availability by marking an entire rural census block as “served” if even a single house had a basic connection.
 
