@@ -10,7 +10,8 @@ series: gigabit-whatcom
 series_part: 2
 ---
 
-*Part 2 in the Gigabit Whatcom series.*
+<div class="series-note" style="font-style:italic;color:#6c757d;margin-bottom:1.5rem">Part 2 in the Gigabit Whatcom series.</div>
+
 
 To translate the principles of public fiber into an actionable roadmap for local leaders, we published our foundational framework, [Creating Everyone Everywhere Affordable Broadband Access](https://drive.google.com/file/d/1zAyzFysyT33g34YLvkvh9l4Kwj32kaBC/view?usp=share_link).
 

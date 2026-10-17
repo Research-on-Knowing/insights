@@ -682,7 +682,7 @@ article blockquote:before {
 	float:left;
 	line-height:1;
 }
-article:first-letter {
+article > p:first-of-type:first-letter {
 	float:left;
 	font-size:5em;
 	line-height:1;

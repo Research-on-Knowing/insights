@@ -8,9 +8,11 @@ image: assets/images/gigabit-whatcom-card.jpg
 excerpt: "Gigabit Whatcom began with a book arguing that fiber is as essential as roads and water. Here is why we took up the idea for Whatcom County."
 series: gigabit-whatcom
 series_part: 1
+featured_order: 1
 ---
 
-*Part 1 in the Gigabit Whatcom series.*
+<div class="series-note" style="font-style:italic;color:#6c757d;margin-bottom:1.5rem">Part 1 in the Gigabit Whatcom series.</div>
+
 
 In 2018, Susan Crawford published *Fiber: The Coming Tech Revolution—and Why America Might Miss It*, a landmark book arguing that high-speed, symmetrical internet access is as essential to modern civic life as electricity, paved roads, and clean water. Crawford showed how legacy telecommunications monopolies leave mid-sized and rural communities behind by underinvesting in last-mile infrastructure.
 
