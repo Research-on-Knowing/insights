@@ -24,7 +24,7 @@ By centering the design on Concepts rather than syntax, LoLs demonstrated that d
 
 - **2008:** [Why we built Language of Languages]({{ site.baseurl }}{% post_url 2008-11-20-why-we-built-language-of-languages %}), the multi-notation problem.
 - **2010:** [The first prototype in Squeak Smalltalk and OMeta]({{ site.baseurl }}{% post_url 2010-11-05-building-first-lols-prototype-squeak-ometa %}).
-- **2011:** [Demonstration at SPLASH 2011]({{ site.baseurl }}{% post_url 2011-11-02-language-of-languages-at-splash-2011 %}), with the [paper](https://drive.google.com/file/d/1t-T1kGuD2eBeS4jMS-0TjRR4jHdtqUn_/view?usp=share_link) and the [presentation deck](https://drive.google.com/file/d/1NV-HJEuhhIgb8FdmPLejUByF2KrO5iem/view?usp=share_link).
+- **2011:** [Demonstration at SPLASH 2011]({{ site.baseurl }}{% post_url 2011-11-02-language-of-languages-at-splash-2011 %}), with the [paper]({{ site.baseurl }}/assets/pdfs/splash-2011-language-of-languages-paper.pdf) and the [presentation deck]({{ site.baseurl }}/assets/pdfs/splash-2011-language-of-languages-slides.pdf).
 - **2017:** [The web workbench in JavaScript and OMetaJS]({{ site.baseurl }}{% post_url 2017-06-24-bringing-lols-to-the-web %}); [Open the Workbench](https://jamiedouglass.github.io/LanguageWorkbench/).
 - **2020:** [The JNode environment and LoLsServer]({{ site.baseurl }}{% post_url 2020-08-07-jnode-environment-and-lols-server %}).
 
