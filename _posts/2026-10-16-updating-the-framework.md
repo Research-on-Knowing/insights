@@ -4,7 +4,7 @@ title: "Updating the Framework: Lessons Learned from Whatcom County’s Broadban
 author: dan
 date: 2026-10-16 13:00:00 -0700
 categories: [Project, Gigabit Whatcom]
-image: assets/images/gigabit-whatcom-card.jpg
+image: assets/images/gigabit-whatcom-5-check-in-card.png
 excerpt: "After years of fieldwork and public partnership, we updated our white paper with a Whatcom County case study and what we learned about costs, permitting, and competition."
 series: gigabit-whatcom
 series_part: 5

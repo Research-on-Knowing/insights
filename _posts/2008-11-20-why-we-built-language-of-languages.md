@@ -4,7 +4,7 @@ title: "Why We Built Language of Languages: Bridging the Multi-Notation Gap in S
 author: jamie
 date: 2008-11-20 09:00:00 -0800
 categories: [Project, Language of Languages]
-image: assets/images/language-of-languages-card.jpg
+image: assets/images/language-of-languages-1-why-lols-card.png
 imagelic: "Pieter Bruegel the Elder, The Tower of Babel (Rotterdam), via Google Art Project and Wikimedia Commons"
 imagelicref: "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project_-_edited.jpg"
 excerpt: "Large systems are described in many notations at once. Language of Languages began as a way to keep them consistent and understandable."

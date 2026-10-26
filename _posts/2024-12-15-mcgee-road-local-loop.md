@@ -4,7 +4,7 @@ title: "Community Organizing in Action: The McGee Road Local Loop Project"
 author: jamie
 date: 2024-12-15 11:00:00 -0700
 categories: [Project, Gigabit Whatcom]
-image: assets/images/gigabit-whatcom-card.jpg
+image: assets/images/gigabit-whatcom-3-local-loop-card.png
 excerpt: "Theory meets the ground: how neighbors along McGee Road organized, partnered with the Port and PUD, and put their corridor on the map."
 series: gigabit-whatcom
 series_part: 3
