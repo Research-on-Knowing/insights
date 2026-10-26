@@ -134,3 +134,17 @@ $(function() {
     }
   }
 });
+// old-category-anchors: old category links used spaces (#gigabit whatcom). Send them to the dashed anchor.
+(function () {
+  var raw = window.location.hash.slice(1);
+  if (!raw) return;
+  var h;
+  try { h = decodeURIComponent(raw); } catch (e) { return; }
+  if (h.indexOf(' ') === -1) return;
+  var dashed = h.toLowerCase().replace(/\s+/g, '-');
+  var el = document.getElementById(dashed);
+  if (!el) return;
+  history.replaceState(null, '', '#' + dashed);
+  el.scrollIntoView();
+  window.scrollBy(0, -70);
+})();
