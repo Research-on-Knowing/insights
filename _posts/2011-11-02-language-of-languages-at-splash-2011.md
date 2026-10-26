@@ -21,7 +21,7 @@ Our presentation illustrated how LoLs tackles notation consistency through step-
 
 ## Resources and downloads
 
-- **Conference paper:** *The Language of Languages Research Project: Unifying Concepts Expressed Across Different Notations* (SPLASH 2011 Demos Track). [Open the paper](https://drive.google.com/file/d/1t-T1kGuD2eBeS4jMS-0TjRR4jHdtqUn_/view?usp=share_link).
-- **Presentation slides:** The full slide deck from our session. [Open the presentation deck](https://drive.google.com/file/d/1NV-HJEuhhIgb8FdmPLejUByF2KrO5iem/view?usp=share_link).
+- **Conference paper:** *The Language of Languages Research Project: Unifying Concepts Expressed Across Different Notations* (SPLASH 2011 Demos Track). [Open the paper]({{ site.baseurl }}/assets/pdfs/splash-2011-language-of-languages-paper.pdf).
+- **Presentation slides:** The full slide deck from our session. [Open the presentation deck]({{ site.baseurl }}/assets/pdfs/splash-2011-language-of-languages-slides.pdf).
 
 *Next in the series: [Bringing LoLs to the Web]({{ site.baseurl }}{% post_url 2017-06-24-bringing-lols-to-the-web %}).*
