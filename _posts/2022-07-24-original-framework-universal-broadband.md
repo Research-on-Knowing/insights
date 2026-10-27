@@ -4,7 +4,7 @@ title: "Creating Everyone, Everywhere Affordable Broadband Access: The Core Fram
 author: dan
 date: 2022-07-24 10:00:00 -0700
 categories: [Project, Gigabit Whatcom]
-image: assets/images/gigabit-whatcom-card.jpg
+image: assets/images/gigabit-whatcom-2-goals-card.png
 excerpt: "To turn public fiber into a roadmap for local leaders, we published a framework built on symmetrical speeds, neighborhood-scale projects, and open access."
 series: gigabit-whatcom
 series_part: 2

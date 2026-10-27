@@ -4,7 +4,7 @@ title: "Under the Hood: Building the First LoLs Prototype in Squeak Smalltalk & 
 author: jamie
 date: 2010-11-05 09:00:00 -0700
 categories: [Project, Language of Languages]
-image: assets/images/language-of-languages-card.jpg
+image: assets/images/language-of-languages-2-prototype-card.png
 imagelic: "Pieter Bruegel the Elder, The Tower of Babel (Rotterdam), via Google Art Project and Wikimedia Commons"
 imagelicref: "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project_-_edited.jpg"
 excerpt: "The first Language of Languages prototype was built in Squeak Smalltalk with OMeta. Here is the minimalist architecture behind it."

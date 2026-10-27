@@ -4,7 +4,7 @@ title: "Mapping the Divide: An Assessment of Broadband Access in Whatcom County"
 author: jamie
 date: 2026-09-10 12:00:00 -0700
 categories: [Project, Gigabit Whatcom]
-image: assets/images/gigabit-whatcom-card.jpg
+image: assets/images/gigabit-whatcom-4-rural-card.png
 excerpt: "Official maps overstated coverage. Our ground-level assessment found the real gaps in upload speed, cost, and infrastructure."
 series: gigabit-whatcom
 series_part: 4

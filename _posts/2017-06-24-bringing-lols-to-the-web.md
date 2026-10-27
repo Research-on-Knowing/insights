@@ -4,7 +4,7 @@ title: "Bringing LoLs to the Web: JavaScript, OMetaJS, and the Web Workbench"
 author: jamie
 date: 2017-06-24 09:00:00 -0700
 categories: [Project, Language of Languages]
-image: assets/images/language-of-languages-card.jpg
+image: assets/images/language-of-languages-4-workbench-card.png
 imagelic: "Pieter Bruegel the Elder, The Tower of Babel (Rotterdam), via Google Art Project and Wikimedia Commons"
 imagelicref: "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project_-_edited.jpg"
 excerpt: "Squeak Smalltalk was ideal for prototyping but hard to adopt. We moved the LoLs workbench into the browser with JavaScript and OMetaJS."

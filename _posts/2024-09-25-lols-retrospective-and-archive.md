@@ -4,7 +4,7 @@ title: "Language of Languages: Project Retrospective & Archived Resources"
 author: jamie
 date: 2024-09-25 09:00:00 -0700
 categories: [Project, Language of Languages]
-image: assets/images/language-of-languages-card.jpg
+image: assets/images/language-of-languages-6-summary-card.png
 imagelic: "Pieter Bruegel the Elder, The Tower of Babel (Rotterdam), via Google Art Project and Wikimedia Commons"
 imagelicref: "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project_-_edited.jpg"
 excerpt: "A look back at what Language of Languages showed about multi-notation systems, with links to all archived papers, slides, and source code."

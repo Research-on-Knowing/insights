@@ -4,7 +4,7 @@ title: "Why Gigabit Whatcom? Inspired by Susan Crawford’s Fiber"
 author: jamie
 date: 2022-01-02 09:00:00 -0700
 categories: [Project, Gigabit Whatcom]
-image: assets/images/gigabit-whatcom-card.jpg
+image: assets/images/gigabit-whatcom-1-fiber-card.png
 excerpt: "Gigabit Whatcom began with a book arguing that fiber is as essential as roads and water. Here is why we took up the idea for Whatcom County."
 series: gigabit-whatcom
 series_part: 1

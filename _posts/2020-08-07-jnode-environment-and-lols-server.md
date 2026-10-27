@@ -4,7 +4,7 @@ title: "Expanding LoLs Capabilities: The JNode Environment & LoLsServer Architec
 author: jamie
 date: 2020-08-07 09:00:00 -0700
 categories: [Project, Language of Languages]
-image: assets/images/language-of-languages-card.jpg
+image: assets/images/language-of-languages-5-lols-server-card.png
 imagelic: "Pieter Bruegel the Elder, The Tower of Babel (Rotterdam), via Google Art Project and Wikimedia Commons"
 imagelicref: "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project_-_edited.jpg"
 excerpt: "To support larger models, LoLs grew into a multi-component architecture with JNode execution and a dedicated server backend."
